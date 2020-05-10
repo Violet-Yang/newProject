@@ -15,6 +15,7 @@ class PrintLetter{
 	public static void print() {
 		System.out.println();
 		System.out.println("--------영화관 예매 프로그램--------");
+		System.out.println("영화보고싶어");
 		System.out.println();
 		System.out.println("1. 좌석 확인");
 		System.out.println("2. 좌석 예매(전체좌석:30 / 예약가능 좌석 :30");
